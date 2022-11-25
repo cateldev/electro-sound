@@ -6,7 +6,7 @@
 
 >The ultimate beat device for beginner musicians.
 <div align="center">
-  <img src="https://github.com/cateldev/magic-sound/blob/main/magic-sound/images/Readme-cover.png">
+  <img width="100%" src="https://github.com/cateldev/magic-sound/blob/main/magic-sound/images/Readme-cover.png">
 </div>
 
 ## About :question:
