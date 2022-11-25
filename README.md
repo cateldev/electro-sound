@@ -5,4 +5,6 @@
 </div>
 
 >The ultimate beat device for beginner musicians.
-![image](https://user-images.githubusercontent.com/99933194/203885946-4ea89ed8-8335-4fdb-8c0c-10870288c9c4.png)
+<div align="center">
+  ![image](https://user-images.githubusercontent.com/99933194/203885946-4ea89ed8-8335-4fdb-8c0c-10870288c9c4.png)
+</div>
