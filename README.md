@@ -2,4 +2,5 @@
   <img width="250" src="https://github.com/cateldev/magic-sound/blob/main/magic-sound/images/magic-sound-logo.png">
   <h3> Made for musicians by musicians </h3>
 </div>
-> The ultimate beat device for beginner musicians
+
+>The ultimate beat device for beginner musicians.
