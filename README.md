@@ -11,6 +11,8 @@
 
 ## About :question:
 This application is a must-have for musicians whom seek to practice their criativity!
+
+This project was made throughout the JavaScript course by Alura but with some upgrades and features which weren't added during the classes.
 <br>
 
 ## Techs :computer:
@@ -19,7 +21,7 @@ This application is a must-have for musicians whom seek to practice their criati
 <img align="center" alt="Catel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">[CSS](https://www.w3schools.com/html/html_css.asp)
 
 ## Design :nail_care:
-Made by [Alura](https://www.alura.com.br/)
+Initialy made by [Alura](https://www.alura.com.br/)
 
 ## Features ::star::
 work in progress...
