@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img width="100%" src="https://github.com/cateldev/magic-sound/blob/main/magic-sound/images/magic-sound-cover.png">
+  <img width="100%" src="https://github.com/cateldev/magic-sound/blob/main/magic-sound/images/magic-sound-cover(1).png">
   <h3> Made for musicians by musicians </h3>
   <br>
 </div>
