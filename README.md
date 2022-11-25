@@ -1,3 +1,3 @@
 <div align="center"> 
-<img src="https://github.com/cateldev/magic-sound/blob/main/magic-sound/images/magic-sound-logo.png">
+<img width="200" src="https://github.com/cateldev/magic-sound/blob/main/magic-sound/images/magic-sound-logo.png">
 </div>
