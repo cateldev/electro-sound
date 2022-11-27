@@ -33,4 +33,6 @@ Feel free to comment, open an issue, or send any PR. I'll love to merge your ide
 ## Issues :bug:
 Found any problem? Feel free to [report](https://github.com/cateldev/magic-sound/issues).
 
+## Copyright :copyright:
+I do not own the Magic Sound logo. Initialy this project idea was presented by Alura in a JavaScript course.
 
