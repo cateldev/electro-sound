@@ -27,4 +27,10 @@ Initialy made by [Alura](https://www.alura.com.br/)
 - Device works with keyboard and mouse
 - Other features in progress...
 
+## Contribution :thumbsup:
+Feel free to comment, open an issue, or send any PR. I'll love to merge your ideas.
+
+## Issues :bug:
+Found any problem? Feel free to [report](https://github.com/cateldev/magic-sound/issues).
+
 
