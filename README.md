@@ -23,7 +23,7 @@ This project was made throughout the JavaScript course by Alura but with some up
 ## Design :nail_care:
 Initialy made by [Alura](https://www.alura.com.br/)
 
-## Features ::star::
+## Features :star:
 - Device works with keyboard and mouse
 - Other features in progress...
 
