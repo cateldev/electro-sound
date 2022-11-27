@@ -25,6 +25,6 @@ Initialy made by [Alura](https://www.alura.com.br/)
 
 ## Features ::star::
 - Device works with keyboard and mouse
-Other features in progress...
+- Other features in progress...
 
 
